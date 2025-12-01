@@ -3,8 +3,8 @@
 ## AIM : 
 To detect and visualize the edges and contours of a coin using image processing techniques such as grayscale conversion, blurring, morphological operations, and Canny edge detection in OpenCV.
 
-### NAME : PREETHI A K
-### REGISTER NUMBER : 212223230156
+### NAME : AMRUTHAVARSHINI GOPAL
+### REGISTER NUMBER : 212223230013
 
 ## PROGRAM:
 ```
